@@ -1,0 +1,50 @@
+Question 1
+Which of the following are examples of digital data? Check all that apply?
+ans 
+
+A recording on a smartphone of a song played live by a solo guitarist
+A downloaded recording of a song played in a studio by a solo guitarist
+A PDF with biographies of the presenters at a full-day business meeting
+
+
+Question 2
+Which of the following are benefits of organizing data? Check all that apply?
+
+Easier lookups for particular information within the data
+Faster counting of records that fits a particular category
+
+
+Question 3
+Why is the DML (Data Manipulation Language) category needed in a good database system?
+Keeping the current values in a database system up to date
+
+
+Question 4
+Which list of SQL statements below are DQL (Data Query Language) or Data Retrieval statements?
+SELECT
+
+
+Question 5
+Which list of SQL statements below are DDL (Data Definition Language) statements?
+CREATE, ALTER, DROP
+
+
+Question 6
+Why have relational databases and SQL been so successful for the last 35 years or more?  Choose  two.
+
+SQL—so closely tied to relational databases—is easy to learn and use, and so we have had an explosion of analysts, programmers and application tools that can use SQL.
+
+The mathematical rigor that spawned the beginning of RDBMSs supplied a strong, robust foundation for many different database systems and applications.
+
+
+Question 7
+Which of the following applications would best be supported by an operational database?  Check all that apply.
+A school enrollment program, scheduling which students go in which sections of which classes.
+
+A bicycle assembly plant, identifying assembly parts that need to be ordered to replenish supplies as bicycles are produced.
+
+
+
+Question 8
+Which are true statements about how operational and analytic database systems are different? Check all that apply.
+Operational databases are more likely to receive frequent DML commands than analytic databases are.
